@@ -13,7 +13,7 @@
 3. Backend Development
    1. Database
    2. NodeJS / Express
-   3. Java Spring Boot
+   3. Spring Framework and SpringBoot
    4. GoLang
 4. System Design and Architectures
 5. AI / ML / DL / Data Science
@@ -144,7 +144,7 @@
 
 1. [When to use NoSQL](https://www.geeksforgeeks.org/sql-vs-nosql-which-one-is-better-to-use/)
 2. [MongoDB University from 0 to 1](https://university.mongodb.com/learning_paths/developer)
-3. Recommended Practice - [Restaurnat Queries](https://www.w3resource.com/mongodb-exercises/)
+3. Recommended Practice - [Restaurant Queries](https://www.w3resource.com/mongodb-exercises/)
 
 
 
@@ -161,4 +161,10 @@
 ### NodeJS / Express
 
 1. [Learn JS first](https://javascript.info/)
-2. x
+
+
+### Spring framework and Spring boot
+1. [Spring tutorial](https://www.tutorialspoint.com/spring/index.htm): More in-depth and comprehensive, better to learn theory rather than code from here.
+2. [What is a Spring Bean?](https://www.baeldung.com/spring-bean): Quickly covers what a spring bean is (with an example of why it is used)
+3. [Introduction to Spring Bean](https://dzone.com/articles/what-are-spring-beans-spring-tutorial-spring-basic-1): Covers what a spring bean is with examples and diagrams
+4. [Springboot tutorial for beginners](https://www.youtube.com/watch?v=vtPkZShrvXQ): Youtube video covering springboot
