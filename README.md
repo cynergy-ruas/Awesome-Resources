@@ -176,4 +176,6 @@ Best way to learn is to install it and play around with it. Start using it as yo
 1. [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com): Amazing for theory and to get started with neural networks
 2. [3Blue1Brown: Neural Networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Absolutely amazing set of videos that explain the concepts behind a neural network
 3. [How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/): Amazing and interactive website
-4. [Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/): Must read topic, plus the website is interactive
+4. [What are receptive fields?](https://theaisummer.com/receptive-field/)
+5. [Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/): Must read topic, plus the website is interactive
+6. [CS231n: Stanford University](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk): Youtube playlist by Stanford University
