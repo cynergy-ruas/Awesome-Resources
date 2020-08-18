@@ -42,8 +42,7 @@
 
 
 ### Linux
-
-1. 
+Best way to learn is to install it and play around with it. Start using it as your daily driver. When you have a doubt on how to do something, google it.
 
 
 
@@ -92,9 +91,13 @@
 
 ### Hybrid
 
-#### Flutter -
-
-
+#### Flutter
+1. [Developer's guide to building flutter apps](https://blog.solutelabs.com/flutter-tutorial-for-developers-step-by-step-guide-to-building-apps-28a70040edb9): Has multiple links for many concepts in flutter
+2. [Flutter codelabs](https://flutter.dev/docs/codelabs)
+3. [Widget of the week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG): Good playlist which describes each widget in flutter in a span of a couple of minutes
+4. [Flutter in focus](https://www.youtube.com/playlist?list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2): Another good playlist that explains flutter concepts
+5. [Container cheat sheet](https://medium.com/jlouage/container-de5b0d3ad184)
+6. [Row/Column cheat sheet](https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041)
 
 #### React Native -
 
@@ -168,3 +171,9 @@
 2. [What is a Spring Bean?](https://www.baeldung.com/spring-bean): Quickly covers what a spring bean is (with an example of why it is used)
 3. [Introduction to Spring Bean](https://dzone.com/articles/what-are-spring-beans-spring-tutorial-spring-basic-1): Covers what a spring bean is with examples and diagrams
 4. [Springboot tutorial for beginners](https://www.youtube.com/watch?v=vtPkZShrvXQ): Youtube video covering springboot
+
+## AI/ML/DL
+1. [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com): Amazing for theory and to get started with neural networks
+2. [3Blue1Brown: Neural Networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Absolutely amazing set of videos that explain the concepts behind a neural network
+3. [How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/): Amazing and interactive website
+4. [Computing Receptive Fields of Convolutional Neural Networks](https://distill.pub/2019/computing-receptive-fields/): Must read topic, plus the website is interactive
