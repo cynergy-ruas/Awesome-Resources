@@ -172,6 +172,10 @@ Best way to learn is to install it and play around with it. Start using it as yo
 3. [Introduction to Spring Bean](https://dzone.com/articles/what-are-spring-beans-spring-tutorial-spring-basic-1): Covers what a spring bean is with examples and diagrams
 4. [Springboot tutorial for beginners](https://www.youtube.com/watch?v=vtPkZShrvXQ): Youtube video covering springboot
 
+After going through the above 4,
+
+5. [What is Spring WebFlux and When to Use it?](https://www.youtube.com/watch?v=M3jNn3HMeWg&ab_channel=DefogTech)
+
 ## AI/ML/DL
 1. [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com): Amazing for theory and to get started with neural networks
 2. [3Blue1Brown: Neural Networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Absolutely amazing set of videos that explain the concepts behind a neural network
