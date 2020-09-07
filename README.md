@@ -176,6 +176,12 @@ After going through the above 4,
 
 5. [What is Spring WebFlux and When to Use it?](https://www.youtube.com/watch?v=M3jNn3HMeWg&ab_channel=DefogTech)
 
+## System Design and Architecture
+1. [Service Oriented Architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/service-oriented-architecture)
+2. [Microservices Architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/microservices-architecture)
+3. [Identify domain-model boundaries for each microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/identify-microservice-domain-model-boundaries)
+4. [Communication in a microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
+
 ## AI/ML/DL
 1. [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com): Amazing for theory and to get started with neural networks
 2. [3Blue1Brown: Neural Networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Absolutely amazing set of videos that explain the concepts behind a neural network
