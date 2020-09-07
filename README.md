@@ -128,7 +128,7 @@ Best way to learn is to install it and play around with it. Start using it as yo
 
 ### Database
 
-- [Databases Concpets](https://www.geeksforgeeks.org/dbms/)
+- [Databases Concepts](https://www.geeksforgeeks.org/dbms/)
 
 
 
